@@ -1,9 +1,9 @@
 # Decentrify
 [<img src = "https://img.shields.io/badge/Using-Solidity-orange"/>](https://soliditylang.org/) [<img src = "https://img.shields.io/github/license/abuzarbagewadi/DWebApp"/>](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
-## Unique Selling Points
+## Website URL
 
-You view it here: https://abuzarbagewadi.github.io/DWebApp/
+You can view it here: https://abuzarbagewadi.github.io/DWebApp/
 
 * "Fragile privacy through messaging applications"
   
