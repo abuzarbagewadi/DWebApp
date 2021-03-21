@@ -26,7 +26,7 @@ DApps could be the technology for missing signaling layer for webRTC.
 We use Solidity programming to make a Distributed Web Application.
 
 ## Technology Stack
-* BLockchian (Solidity)
+* Blockchain (Solidity)
 * HTML5 + CSS3
 * Javascript
 
