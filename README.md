@@ -1,5 +1,9 @@
-# DWebApp
+# Decentrify
 [<img src = "https://img.shields.io/badge/Using-Solidity-orange"/>](https://soliditylang.org/) [<img src = "https://img.shields.io/github/license/abuzarbagewadi/DWebApp"/>](https://www.gnu.org/licenses/gpl-3.0.en.html) 
+
+## Unique Selling Points
+
+You view it here: https://abuzarbagewadi.github.io/DWebApp/
 
 * "Fragile privacy through messaging applications"
   
@@ -29,8 +33,6 @@ We use Solidity programming to make a Distributed Web Application.
 ## Challenges
 
 * Implementation of blockchain instead of regular servers
-
-## Future Aspects
 
 ## Authors
 
