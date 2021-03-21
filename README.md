@@ -17,6 +17,7 @@ We use Solidity programming to make a Distributed Web Application.
 
 ## Technology Stack
 * BLockchian (Solidity)
+* HTML5 + CSS3
 * Javascript
 
 ## Challenges
