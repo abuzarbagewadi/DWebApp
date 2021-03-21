@@ -1,6 +1,12 @@
 # DWebApp
+[<img src = "https://img.shields.io/badge/Using-Solidity-orange"/>](https://soliditylang.org/) [<img src = "https://img.shields.io/github/license/abuzarbagewadi/DWebApp"/>](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
-"Fragile privacy through messaging applications" and "immobility of work that depend upon them when they become non-functional for a brief amount of time" are 2 basic problems frequently faced by all messaging applications. We intend to eradicate these problems  by making a messaging application that is of decentralised nature unlike the existing centralised ones. The data for which would be saved at different nodes rather than maintaining a single database. We aim at improving the existing products using latest technologies for a secure and reliable tomorrow.
+* "Fragile privacy through messaging applications"
+  
+    and
+* "Immobility of work that depend upon them when they become non-functional for a brief amount of time"
+
+    are the two basic problems frequently faced by all messaging applications. We intend to eradicate these problems  by making a messaging application that is of decentralised nature unlike the existing centralised ones. The data for which would be saved at different nodes rather than maintaining a single database. We aim at improving the existing products using latest technologies for a secure and reliable tomorrow.
 
 ## Unique Selling Points
 
