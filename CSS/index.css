@@ -1,0 +1,115 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    color: black;
+    overflow-x: hidden;
+    background: url('assets/bg.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+  
+}
+
+.band {
+    width: 100%;
+    height: 7px;
+    background-color: #008891;
+   
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #008891;
+    width: 30%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px 0 lightgrey;
+    height: 100%;
+    position: relative;
+    z-index: 99;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+input, textarea {
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    width: 95%;
+}
+
+button {
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    background-color: rgb(21, 69, 128);
+    color: white;
+    margin: 10px;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    background-color: rgb(15, 48, 87);
+}
+
+#sections {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 560px) 
+{
+    #sections
+    {
+        flex-direction: column;
+    }
+}
+
+#write-message {
+    width: 80%;
+}
+
+#send-area {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.align-center {
+    display: block;
+    margin: auto;
+}
+
+.user-box {
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.message-box {
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}
+ 
+#profile-content
+{
+    color: white;
+}
+
+#set-profile-button
+{
+    margin-top: 30px;
+}

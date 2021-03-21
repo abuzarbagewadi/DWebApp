@@ -1,13 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="CSS/style.css">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texify</title>
-</head>
-<body>
-    
-</body>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Decentralized Chat</title>
+        <link rel="stylesheet" href="CSS/index.css">
+    </head>
+    <body>
+        <div class="band"></div>
+        
+        <div id="sections">
+           
+            <section>
+                <h3 style="color: white; text-align: center;">&#11088 My Profile &#11088</h3>
+                <div id="profile-content"></div>
+            </section>
+
+            <section>
+                <h3 style="color: white;">Your Inbox &#9889</h3>
+                <div id="send-area">
+                    <textarea id="write-message" rows="3" placeholder="Type and hit Send!"></textarea>
+                    <button onclick="sendMessage(document.querySelector('#write-message').value)">Send!</button>
+                </div>
+                <div id="messages"></div>
+            </section>
+              
+        </div>
+       
+
+         <div class="band" style="position:absolute; bottom: 0; "></div> 
+        <script src="JS/index.js"></script>
+    </body>
 </html>
