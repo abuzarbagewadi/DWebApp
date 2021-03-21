@@ -13,24 +13,21 @@ DApps could be the technology for missing signaling layer for webRTC.
 6.	DApps have the ability to bridge between different apps and IRCs like Slack, Gitter, WhatsApp etc.
 
 ## Implementation
-
 We use Solidity programming to make a Distributed Web Application.
 
 ## Technology Stack
-* Solidity
+* BLockchian (Solidity)
 * Javascript
-* Blockchain
 
 ## Challenges
 
-* Ideation Clarity
-* Uncertainity of Technology stack
+* Implementation of blockchain instead of regular servers
 
 ## Future Aspects
 
 ## Authors
 
-* Parth Mahadik (https://github.com/GuerrillaGambit)
-* Kanit Mann (https://github.com/kanitmann)
-* Gauri Joshi (https://github.com/kodekandy)
-* Abuzar Bagewadi (https://github.com/abuzarbagewadi)
+* [Parth Mahadik](https://github.com/GuerrillaGambit)
+* [Kanit Mann](https://github.com/kanitmann)
+* [Gauri Josh](https://github.com/kodekandy)
+* [Abuzar Bagewadi](https://github.com/abuzarbagewadi)
