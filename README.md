@@ -38,5 +38,5 @@ We use Solidity programming to make a Distributed Web Application.
 
 * [Parth Mahadik](https://github.com/GuerrillaGambit)
 * [Kanit Mann](https://github.com/kanitmann)
-* [Gauri Josh](https://github.com/kodekandy)
+* [Gauri Joshi](https://github.com/kodekandy)
 * [Abuzar Bagewadi](https://github.com/abuzarbagewadi)
